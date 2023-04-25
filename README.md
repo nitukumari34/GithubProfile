@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitukumari34&label=Profile%20views&color=0e75b6&style=flat" alt="nitukumari34" /> </p>
 
-- 🔭 I’m currently Studying in Computer Science **E-Commerce Based Application**
+- 🔭 I’m currently Studying in Computer Science
 
 - 🌱 I’m currently learning **Angular,Nodejs,Express.js And MYSQL**
 
