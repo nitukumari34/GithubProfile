@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitukumari34&label=Profile%20views&color=0e75b6&style=flat" alt="nitukumari34" /> </p>
 
-- 🔭 I’m currently Studying B.Tech in Computer Science 
+- 🔭 I’m currently Pursuing B.Tech in Computer Science and Engineering
 
-- 🌱 I’m currently learning **Angular,Nodejs,Express.js And MYSQL**
+- 🌱 I’m currently learning ** HTML,CSS,JavaScript,Angular,Nodejs,Express.js And MYSQL**
 
 - 📫 How to reach me **nituspj032001@gmail.com**
 
