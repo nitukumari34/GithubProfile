@@ -16,7 +16,7 @@
 - 📄 Know about my experiences ( https://drive.google.com/file/d/1GGXKVTmVguQc_0sdQgMlGhJNoERZ_4Rz/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love to Dance **
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nitu-kumari-49527623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitu-kumari-49527623a" height="30" width="40" /></a>
@@ -24,7 +24,6 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/nituspj032001/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nituspj032001/practice/" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/nituspj032001"></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   
