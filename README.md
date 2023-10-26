@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nitu Kumari</h1>
-<h3 align="center">A Passionate  Frontend developer from India</h3>
+<h3 align="center">A Passionate  Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitukumari34&label=Profile%20views&color=0e75b6&style=flat" alt="nitukumari34" /> </p>
 
-- 🔭 I’m currently Pursuing B.Tech in Computer Science and Engineering
+- 🔭 I am honing my dev and ReactJs skills.
 
-- 🌱 I’m currently learning ** HTML,CSS,JavaScript,Reactjs, MYSQL**
+- 🌱 I’m currently learning ** ReactJs,NodeJs**
+- 👯‍♀️  I am looking to collaborate in web dev projects.
+- 💬 Ask me About Web development and Web Technologies.
 
 - 📫 How to reach me **nituspj032001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qSOTNW1bGONbym_gj_r3E6W9_MQFDohq/view?usp=drivesdk](https://drive.google.com/file/d/1qSOTNW1bGONbym_gj_r3E6W9_MQFDohq/view?usp=drivesdk)
+- 📄 Know about my experiences ( https://drive.google.com/file/d/1GGXKVTmVguQc_0sdQgMlGhJNoERZ_4Rz/view?usp=drivesdk)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love to Dance **
+- Profile views: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
